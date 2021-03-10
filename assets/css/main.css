@@ -184,6 +184,10 @@ input, select, textarea {
 		margin-bottom: 1em;
 	}
 
+	iframe{
+		text-align: center;
+	}
+	
 	p {
 		text-align: justify;
 	}
